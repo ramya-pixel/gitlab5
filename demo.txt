@@ -1,2 +1,2 @@
-this is th git lab program
-my lab program is 5 programm
+this is the git lab program
+my lab program is 5 program
